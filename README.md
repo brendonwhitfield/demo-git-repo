@@ -3,7 +3,7 @@ Basic git repository for demonstration premises
 
 ## TOC
 * [Section 1](#section-1)
-	* [section 1.1](#section1.1)
+	* [section 1.1](#1.1)
 
 ## Section 1
 Sample text
